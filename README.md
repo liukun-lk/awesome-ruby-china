@@ -23,6 +23,7 @@
     - [日志文件](#日志文件)
     - [缓存](#缓存)
     - [优化 / 性能统计 / 性能分析](#优化--性能统计--性能分析)
+    - [Rails API 服务](#Rails--API--服务)
     - [安全](#安全)
     - [全文搜索](#全文搜索)
     - [业务](#业务)
@@ -164,7 +165,6 @@
 * [Rails 5.1 add delegate_missing_to](https://ruby-china.org/topics/33119)
 * [在一个简单项目中探索 Rails 5.1 新功能：yarn 集成和集成测试](https://ruby-china.org/topics/32792)
 * [Rails 5.2 新功能详解](https://ruby-china.org/topics/36666)
-* [使用 Rails 构建 API 实践](https://ruby-china.org/topics/25822)
 
 ### Rails 源码分析 / 简单实现 Rails
 
@@ -305,7 +305,6 @@
 
 * [性能优化案例分析之一：软删除是慢查询的罪魁祸首？](https://ruby-china.org/topics/34540)
 * [性能优化案例分析之二：时间区域查询的性能优化](https://ruby-china.org/topics/34571)
-* [用 Rails 写 API 服务，性能感觉不足，怎么办？](https://ruby-china.org/topics/33620)
 * [ancestry 和 closure_tree 的批量读对比](https://ruby-china.org/topics/32802)
 * [Rails 3 和 Rails 4 中 ETags 工作原理](https://ruby-china.org/topics/24996)
 * [使用 Ruby 处理大型 CSV 文件](https://ruby-china.org/topics/31444)
@@ -322,6 +321,11 @@
 * [How Did Tenderlove and Others Speed Up Rails?](https://ruby-china.org/topics/21922)
 * [如何降低页面 render 时的耗时以及 CPU 资源](https://ruby-china.org/topics/12008)
 * [有人告诉我如果数据量大了就不能做分页了？是这样么？](https://ruby-china.org/topics/10843)
+
+### Rails API 服务
+
+* [使用 Rails 构建 API 实践](https://ruby-china.org/topics/25822)
+* [用 Rails 写 API 服务，性能感觉不足，怎么办？](https://ruby-china.org/topics/33620)
 
 ### 安全
 
