@@ -165,6 +165,7 @@
 * [Rails 5.1 add delegate_missing_to](https://ruby-china.org/topics/33119)
 * [在一个简单项目中探索 Rails 5.1 新功能：yarn 集成和集成测试](https://ruby-china.org/topics/32792)
 * [Rails 5.2 新功能详解](https://ruby-china.org/topics/36666)
+* [Rails 5.2 中的 Credentials 和 Active Storage](https://ruby-china.org/topics/36081)
 
 ### Rails 源码分析 / 简单实现 Rails
 
@@ -199,6 +200,7 @@
 * [PostgreSQL 的异步操作接口，以及 Ruby 中对应实现](https://ruby-china.org/topics/21370)
 * [Sprockets 源码初体验](https://ruby-china.org/topics/16841)
 * [Webrick 源码阅读笔记](https://ruby-china.org/topics/15102)
+* [五问 Sidekiq](https://ruby-china.org/topics/36825)
 
 ### ActiveRecord
 
@@ -696,7 +698,6 @@
 
 * [十年磨一剑，从菜鸟到 CTO —— 我的故事](https://ruby-china.org/topics/31703)
 * [译文：一个 Perl 程序员职业生涯的中年危机](https://ruby-china.org/topics/34079)
-* [工作也旅行 - 工作日常](https://ruby-china.org/topics/27162)
 * [[经验之谈] 转行做程序员的 8 个月](https://ruby-china.org/topics/19961)
 * [学习编程没有捷径，需要的是热情与毅力](https://ruby-china.org/topics/19396)
 * [从士兵到程序员再到 SOHO 程序员](https://ruby-china.org/topics/14189)
@@ -704,6 +705,7 @@
 * [从士兵到程序员再到 SOHO 程序员 (三) - 游击战与阻力](https://ruby-china.org/topics/17597)
 * [工作也旅行 - 工作机会](https://ruby-china.org/topics/17008)
 * [工作也旅行 - 跨洋远程面试](https://ruby-china.org/topics/17092)
+* [工作也旅行 - 工作日常](https://ruby-china.org/topics/27162)
 * [介绍我的项目 ＋ 找一份工作](https://ruby-china.org/topics/15217)
 * [[译] 炒与被炒](https://ruby-china.org/topics/14633)
 
