@@ -499,6 +499,7 @@
 * [DHH: TDD is dead. Long live testing.](https://ruby-china.org/topics/18809)
 * [Sidekiq 的测试怎么写](https://ruby-china.org/topics/16702)
 * [FactoryGirl 粗浅介绍](https://ruby-china.org/topics/3777)
+* [功能测试 vs 整合测试 vs 单元测试](https://ruby-china.org/topics/36835)
 
 ### Rack
 
