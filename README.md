@@ -236,6 +236,7 @@
 * [Rails 中用 RabbitMQ 做消息队列 [译]](https://ruby-china.org/topics/22332)
 * [Rails 4.2 新增后端任务框架 - Active Job](https://ruby-china.org/topics/21092)
 * [Sidekiq 精通 36 分钟](https://ruby-china.org/topics/19891)
+* [基于 Sidekiq 的异步任务管理引擎设计](https://ruby-china.org/topics/36850)
 
 ### Action Cable / WebSocket
 
