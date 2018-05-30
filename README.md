@@ -439,6 +439,7 @@
 * [淘宝威客站点的部署](https://ruby-china.org/topics/12222)
 * [蝉游记网站的部署 Nginx,Unicorn,Capistrano,OOB,Graceful Restart](https://ruby-china.org/topics/12033)
 * [赞美 Mina，实在太好用了，写点心得给还在纠结的同学](https://ruby-china.org/topics/9606)
+* [Deploy Rails app with JRuby and Dokku](https://ruby-china.org/topics/36865)
 
 ### 服务器
 
