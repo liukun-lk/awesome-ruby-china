@@ -290,6 +290,7 @@
 * [简记 Rails 中的 logger 实用技巧](https://ruby-china.org/topics/34663)
 * [Rails Log Process](https://ruby-china.org/topics/27523)
 * [Rails log 自动分割该怎么配置才正确](https://ruby-china.org/topics/3704)
+* [Ruby 原生日志分割已经解决多进程问题？](https://ruby-china.org/topics/36880)
 
 ### 缓存
 
