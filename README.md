@@ -304,6 +304,7 @@
 * [总结 Web 应用中常用的各种 Cache](https://ruby-china.org/topics/19389)
 * [Web 应用的缓存设计模式](https://ruby-china.org/topics/9243)
 * [second_level_cache 简介](https://ruby-china.org/topics/5535)
+* [在 rails 中使用 HTTP 缓存](https://ruby-china.org/topics/36889)
 
 ### 优化 / 性能统计 / 性能分析
 
