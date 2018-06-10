@@ -621,6 +621,7 @@
 * [Ruby 的方法查找与 method_missing](https://ruby-china.org/topics/21304)
 * [发个很好的 Ruby VM 的学习资料](https://ruby-china.org/topics/13721)
 * [Teahour 20 期：跟 @luikore 和 @skandhas 一起讨论底层开发和 Ruby VM](https://ruby-china.org/topics/11956)
+* [浅谈尾递归](https://ruby-china.org/topics/36896)
 
 ### 并发、多线程、多进程 / 异步
 
