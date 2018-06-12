@@ -460,6 +460,7 @@
 ### Unicorn
 
 * [如何持续监控 Unicorn 的性能指标](https://ruby-china.org/topics/29792)
+* [Unicorn 进程如何保证平滑更替?](https://ruby-china.org/topics/36935)
 
 ### Nginx
 
