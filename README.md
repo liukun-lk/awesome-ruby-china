@@ -594,6 +594,7 @@
 * [聊聊 Ruby 中的 block, proc 和 lambda](https://ruby-china.org/topics/10414)
 * [Ruby Web 框架简单介绍](https://ruby-china.org/topics/9851)
 * [Ruby 社区应该去 Rails 化了](https://ruby-china.org/topics/9765)
+* [Ruby 内联私有方法与原理](https://ruby-china.org/topics/37080)
 
 ### 元编程
 
