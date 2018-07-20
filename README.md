@@ -476,6 +476,7 @@
 * [Windows 环境添加 Ruby China Gems 源的 SSL 异常问题解决记录](https://ruby-china.org/topics/33843)
 * [Window 10 下的开发 Rails](https://ruby-china.org/topics/31872)
 * [Rails 在 Windows 下的完整开发环境压缩包 (Ruby 2.1.7 和 2.2.4)](https://ruby-china.org/topics/26191)
+* [Windows 下一键安装 Redmine](https://ruby-china.org/topics/37185)
 
 ### 重构
 
