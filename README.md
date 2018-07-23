@@ -705,6 +705,7 @@
 * [Strikingly 团队 2017 技术展望](https://ruby-china.org/topics/32307)
 * [2016 年后 Web 开发趋势是什么](https://ruby-china.org/topics/29901)
 * [Elixir 会成为明日之星么？似乎是](https://ruby-china.org/topics/31736)
+* [[译] 再见微服务，从 100 多个问题儿童到一个超级明星](https://ruby-china.org/topics/37189)
 
 ## 职业经历
 
