@@ -639,6 +639,7 @@
 * [实例说明 Ruby 多线程的潜力和弱点](https://ruby-china.org/topics/11248)
 * [ruby 线程使用举例](https://ruby-china.org/topics/8625)
 * [关于ruby多线程编程中的join](http://www.letiantian.me/2014-08-30-ruby-thread-join/)
+* [Grape on Rails + Puma 线程安全性的讨论?](https://ruby-china.org/topics/30188)
 
 ### Ruby 扩展
 
