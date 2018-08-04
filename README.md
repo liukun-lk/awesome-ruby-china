@@ -201,6 +201,7 @@
 * [Sprockets 源码初体验](https://ruby-china.org/topics/16841)
 * [Webrick 源码阅读笔记](https://ruby-china.org/topics/15102)
 * [五问 Sidekiq](https://ruby-china.org/topics/36825)
+* [RabbitMQ Ruby 客户端 Bunny 部分源码解读](https://ruby-china.org/topics/37277)
 
 ### ActiveRecord
 
