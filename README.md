@@ -3,6 +3,8 @@
 以下内容来源 [Ruby China](https://ruby-china.org) 社区的精华帖。当然也不局限于社区，有觉得好的内容也欢迎提 Pull Request。
 
 ### 目录
+<details>
+<summary><b>展开目录</b></summary>
 
 - [Ruby China](#awesome-ruby-china)
   - [精彩回帖](#精彩回帖)
@@ -63,6 +65,9 @@
   - [其他](#其他)
 
 - [《提问的智慧》](https://ruby-china.org/topics/24325)
+
+</details>
+
 
 ## 精彩回帖
 
