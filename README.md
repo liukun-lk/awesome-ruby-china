@@ -775,6 +775,7 @@
 
 ## 其他
 
+* [SQL Style Guide](https://ruby-china.org/topics/37464)
 * [写出好的 commit message](https://ruby-china.org/topics/15737)
 * [围绕 MacBook Pro 打造的工作站设计日志](https://ruby-china.org/topics/30343)
 * [如何读文档？](https://ruby-china.org/topics/33517)
