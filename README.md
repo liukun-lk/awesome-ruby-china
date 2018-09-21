@@ -408,6 +408,7 @@
 * [MySQL 联合索引 (a,b) 的一些困惑](https://ruby-china.org/topics/27022)
 * [Rails Database Migrations 译文](https://ruby-china.org/topics/14277)
 * [SQL 通配符真的很糟糕么](https://ruby-china.org/topics/5695)
+* [基于 Postgres 实现一个推荐系统](https://ruby-china.org/topics/37522)
 
 ### 数据仓库
 
