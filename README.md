@@ -62,6 +62,7 @@
   - [前端](#前端)
     - [Ember](#ember)
   - [计算机知识](#计算机知识)
+  - [代码设计](#代码设计)
   - [其他](#其他)
 
 - [《提问的智慧》](https://ruby-china.org/topics/24325)
@@ -546,6 +547,7 @@
 
 ### Gems 分享 / 创建
 
+* [WorkflowCore —— SaaS 快速开发套件之工作流引擎](https://ruby-china.org/topics/37555)
 * [ActionStore - 一步到位的 Like, Follow, Star, Block ... 等动作的解决方案](https://ruby-china.org/topics/32262)
 * [自制开源 Web 框架的 40 天 - em-midori](https://ruby-china.org/topics/31358)
 * [midori 百日记](https://ruby-china.org/topics/31921)
@@ -753,6 +755,7 @@
 * [浅谈 Underscore.js 中 _.throttle 和 _.debounce 的差异](https://ruby-china.org/topics/22494)
 * [从剪切版里粘贴图片: HTML5 Clipboard API hacking](https://ruby-china.org/topics/17266)
 * [Javascript 跨子域通讯](https://ruby-china.org/topics/7598)
+* [用现代 Rails 逃离单页面应用 “兔子洞”](https://ruby-china.org/topics/37531)
 
 ### Ember
 
@@ -773,6 +776,11 @@
 * [如何通过 HSB 颜色模式构建夜间模式](https://ruby-china.org/topics/32711)
 * [《GPU Animation: Doing It Right》| GPU 动画的正确打开方式](https://ruby-china.org/topics/32052)
 * [Docker 在 Coding WebIDE 项目中的运用](https://ruby-china.org/topics/26157)
+
+## 代码设计
+
+* [Feed 流设计 (一)：如何对多态内容进行抽象？](https://ruby-china.org/topics/37548)
+* [Feed 流设计 (二)：拉模式 Vs 推模式](https://ruby-china.org/topics/37549)
 
 ## 其他
 
