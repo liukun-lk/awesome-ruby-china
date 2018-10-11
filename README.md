@@ -244,6 +244,7 @@
 * [Rails 4.2 新增后端任务框架 - Active Job](https://ruby-china.org/topics/21092)
 * [Sidekiq 精通 36 分钟](https://ruby-china.org/topics/19891)
 * [基于 Sidekiq 的异步任务管理引擎设计](https://ruby-china.org/topics/36850)
+* [RabbitMQ / Sneaker 工作方式简析](https://ruby-china.org/topics/37587)
 
 ### Action Cable / WebSocket
 
@@ -605,6 +606,7 @@
 * [Ruby Web 框架简单介绍](https://ruby-china.org/topics/9851)
 * [Ruby 社区应该去 Rails 化了](https://ruby-china.org/topics/9765)
 * [Ruby 内联私有方法与原理](https://ruby-china.org/topics/37080)
+* [修改 Ruby 核心类和模块的方法](https://ruby-china.org/topics/37598)
 
 ### 元编程
 
