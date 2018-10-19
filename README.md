@@ -411,6 +411,7 @@
 * [Rails Database Migrations 译文](https://ruby-china.org/topics/14277)
 * [SQL 通配符真的很糟糕么](https://ruby-china.org/topics/5695)
 * [基于 Postgres 实现一个推荐系统](https://ruby-china.org/topics/37522)
+* [基于 Postgres 实现一个热度算法](https://ruby-china.org/topics/37629)
 
 ### 数据仓库
 
@@ -452,6 +453,7 @@
 * [赞美 Mina，实在太好用了，写点心得给还在纠结的同学](https://ruby-china.org/topics/9606)
 * [Deploy Rails app with JRuby and Dokku](https://ruby-china.org/topics/36865)
 * [Capistrano + Rails 5.2 自动化部署](https://ruby-china.org/topics/36899)
+* [GitLab, Docker, Ruby on Rails CI/CD 实践](https://ruby-china.org/topics/37638)
 
 ### 服务器
 
