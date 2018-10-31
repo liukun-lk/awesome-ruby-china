@@ -676,6 +676,7 @@
 * [Ruby 2.2 的 可回收 symbol](https://ruby-china.org/topics/21498)
 * [Ruby memory leak detection](https://ruby-china.org/topics/9737)
 * [Ruby GC 自述](https://ruby-china.org/topics/37118)
+* [Ruby 的好朋友 -- jemalloc](https://ruby-china.org/topics/37699)
 
 ### Sinatra
 
