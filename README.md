@@ -412,6 +412,7 @@
 * [SQL 通配符真的很糟糕么](https://ruby-china.org/topics/5695)
 * [基于 Postgres 实现一个推荐系统](https://ruby-china.org/topics/37522)
 * [基于 Postgres 实现一个热度算法](https://ruby-china.org/topics/37629)
+* [一招秒杀 N+1 agg 问题](https://ruby-china.org/topics/37712)
 
 ### 数据仓库
 
@@ -812,3 +813,4 @@
 * [Web 中文字体应用指南](https://ruby-china.org/topics/14005)
 * [远程工作经验谈 - 如何适应以及如何管理团队](https://ruby-china.org/topics/12738)
 * [六一在家折腾个 WALL·E 给闺女玩 (已更新：Audio & Text to Speech)](https://ruby-china.org/topics/11436)
+* ["Elixir Things" - 今天在公司内部做的演讲，对 Elixir 感兴趣的可以来看看](https://ruby-china.org/topics/37718)
