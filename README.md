@@ -519,6 +519,7 @@
 * [Sidekiq 的测试怎么写](https://ruby-china.org/topics/16702)
 * [FactoryGirl 粗浅介绍](https://ruby-china.org/topics/3777)
 * [功能测试 vs 整合测试 vs 单元测试](https://ruby-china.org/topics/36835)
+* [Goreplay - 使用真实流量测试你的应用](https://ruby-china.org/topics/37756)
 
 ### Rack
 
@@ -814,3 +815,4 @@
 * [远程工作经验谈 - 如何适应以及如何管理团队](https://ruby-china.org/topics/12738)
 * [六一在家折腾个 WALL·E 给闺女玩 (已更新：Audio & Text to Speech)](https://ruby-china.org/topics/11436)
 * ["Elixir Things" - 今天在公司内部做的演讲，对 Elixir 感兴趣的可以来看看](https://ruby-china.org/topics/37718)
+* [使用 Ruby 实现 Erlang Process -- 8s spawn 一百万 “process”](https://ruby-china.org/topics/37750)
