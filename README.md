@@ -8,7 +8,7 @@
 
 - [Ruby China](#awesome-ruby-china)
   - [精彩回帖](#精彩回帖)
-  - [Ruby Conf](#ruby-conf)
+  - [Ruby Conf](https://github.com/liukun-lk/awesome-ruby-china/blob/master/RubyConf.md)
   - [Rails](#rails)
     - [Rails 版本新特性 / 升级](#rails-版本新特性--升级)
     - [Rails 源码分析 / 简单实现 Rails](#rails-源码分析--简单实现-rails)
