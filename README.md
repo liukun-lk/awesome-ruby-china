@@ -770,3 +770,4 @@
 * ["Elixir Things" - 今天在公司内部做的演讲，对 Elixir 感兴趣的可以来看看](https://ruby-china.org/topics/37718)
 * [使用 Ruby 实现 Erlang Process -- 8s spawn 一百万 “process”](https://ruby-china.org/topics/37750)
 * [浅谈 Markdown 编译器](https://ruby-china.org/topics/37790)
+* [用 Ruby 体验快速开发 P2P 网络程序](https://ruby-china.org/topics/37825)
