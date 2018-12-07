@@ -424,6 +424,7 @@
 
 * [如何持续监控 Unicorn 的性能指标](https://ruby-china.org/topics/29792)
 * [Unicorn 进程如何保证平滑更替?](https://ruby-china.org/topics/36935)
+* [图解 Unicorn 工作原理](https://ruby-china.org/topics/37868)
 
 ### Nginx
 
@@ -433,6 +434,7 @@
 * [Nginx location 配置踩坑过程分享](https://ruby-china.org/topics/24090)
 * [Rails / Nginx 与 Weak Etag](https://ruby-china.org/topics/23193)
 * [使用 Rails Asset Pipeline 配合 Nginx 的 gzip_static 优化 tips](https://ruby-china.org/topics/19437)
+* [Nginx 进程和信号](https://ruby-china.org/topics/37845)
 
 ### Windows Environment
 
