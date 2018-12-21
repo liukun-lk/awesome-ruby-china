@@ -364,6 +364,7 @@
 * [基于 Postgres 实现一个热度算法](https://ruby-china.org/topics/37629)
 * [一招秒杀 N+1 agg 问题](https://ruby-china.org/topics/37712)
 * [It's never too late to learn Postgres](https://ruby-china.org/topics/37815)
+* [Let's clone a Leancloud](https://ruby-china.org/topics/37922)
 
 ### 数据仓库
 
