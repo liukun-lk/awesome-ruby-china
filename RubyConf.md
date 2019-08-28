@@ -47,3 +47,7 @@
 * [宽容、进取、探索的知识之旅——答「参加 RubyConf China 2017 是种怎样的体验？」](https://ruby-china.org/topics/34163)
 * [RubyConf China 2017 视频](https://ruby-china.org/topics/34192)
 * [[RubyConfChina 2017] 大会照片收集分享贴](https://ruby-china.org/topics/34210)
+* [[上海][8-24,25] RubyConf China 2019 赞助召集](https://ruby-china.org/topics/38533)
+* [[上海][8-24,25] RubyConf China X 讲师和主题介绍](https://ruby-china.org/topics/38696)
+* [[上海][8-24,25] RubyConf China 2019 售票开始](https://ruby-china.org/topics/38702)
+* [[上海][8-24,25] RubyConf China 2019 参会指南](https://ruby-china.org/topics/38959)
