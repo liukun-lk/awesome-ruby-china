@@ -285,6 +285,7 @@
 * [How Did Tenderlove and Others Speed Up Rails?](https://ruby-china.org/topics/21922)
 * [如何降低页面 render 时的耗时以及 CPU 资源](https://ruby-china.org/topics/12008)
 * [有人告诉我如果数据量大了就不能做分页了？是这样么？](https://ruby-china.org/topics/10843)
+* [记一次 Ruby 内存泄漏的排查和修复](https://ruby-china.org/topics/38328)
 
 ### Rails API 服务
 
@@ -408,6 +409,7 @@
 * [Deploy Rails app with JRuby and Dokku](https://ruby-china.org/topics/36865)
 * [Capistrano + Rails 5.2 自动化部署](https://ruby-china.org/topics/36899)
 * [GitLab, Docker, Ruby on Rails CI/CD 实践](https://ruby-china.org/topics/37638)
+* [在 Rails 项目中使用 Docker 和 GitLab CI 高效构建镜像 (第一部分)](https://ruby-china.org/topics/38766)
 
 ### 服务器
 
@@ -718,6 +720,7 @@
 * [从剪切版里粘贴图片: HTML5 Clipboard API hacking](https://ruby-china.org/topics/17266)
 * [Javascript 跨子域通讯](https://ruby-china.org/topics/7598)
 * [用现代 Rails 逃离单页面应用 “兔子洞”](https://ruby-china.org/topics/37531)
+* [Rails 6.0 详细介绍切换 Assets Pipeline 到 Webpacker](https://ruby-china.org/topics/38832)
 
 ### Ember
 
