@@ -122,6 +122,7 @@
 * [在一个简单项目中探索 Rails 5.1 新功能：yarn 集成和集成测试](https://ruby-china.org/topics/32792)
 * [Rails 5.2 新功能详解](https://ruby-china.org/topics/36666)
 * [Rails 5.2 中的 Credentials 和 Active Storage](https://ruby-china.org/topics/36081)
+* [Rails 6.0 正式发布](https://ruby-china.org/topics/38949)
 
 ### Rails 源码分析 / 简单实现 Rails
 
